@@ -1,0 +1,10 @@
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\bin\Debug\netcoreapp2.0\ooptrain.deps.json
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\bin\Debug\netcoreapp2.0\ooptrain.runtimeconfig.json
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\bin\Debug\netcoreapp2.0\ooptrain.runtimeconfig.dev.json
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\bin\Debug\netcoreapp2.0\ooptrain.dll
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\bin\Debug\netcoreapp2.0\ooptrain.pdb
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\obj\Debug\netcoreapp2.0\ooptrain.csprojAssemblyReference.cache
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\obj\Debug\netcoreapp2.0\ooptrain.AssemblyInfoInputs.cache
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\obj\Debug\netcoreapp2.0\ooptrain.AssemblyInfo.cs
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\obj\Debug\netcoreapp2.0\ooptrain.dll
+C:\Users\Ilya\RiderProjects\ooptrain\ooptrain\obj\Debug\netcoreapp2.0\ooptrain.pdb
